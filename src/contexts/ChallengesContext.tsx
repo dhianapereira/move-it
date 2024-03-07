@@ -1,4 +1,3 @@
-/* eslint-disable no-new */
 import { createContext, useState, ReactNode, useEffect } from 'react'
 import challenges from '../../challenges.json'
 
